@@ -1,0 +1,10 @@
+# Mac
+.DS_Store
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Misc
+*.log
