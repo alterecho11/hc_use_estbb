@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/1212838075.svg)](https://doi.org/10.5281/zenodo.19615878)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19615879.svg)](https://doi.org/10.5281/zenodo.19615878)
 
 ## Overview
 
@@ -41,14 +41,14 @@ Optional:
 
 If you use the R code in your research, please cite the manuscript:
 
-[Insert full citation once published]
-DOI: https://doi.org/[insert]
+Citation: Džigurski J, Möls M, Läll K, Currant H, Eltermaa M, Estonian Biobank Research Team, et al. (2026) Prescribed hormonal contraceptive use trends in the Estonian Biobank: A longitudinal observational study. PLoS Med 23(5): e1005086.
+DOI: https://doi.org/10.1371/journal.pmed.1005086
 
 If you specifically use or adapt the HC usage period reconstruction 
 algorithm JS code, please also cite the code repository:
 
-[Your name], [Your institution]. ([Year]). Prescribed hormonal contraceptive use trends in the Estonian Biobank: analysis pipeline. Zenodo. 
-https://doi.org/10.5281/zenodo.XXXXXXX
+Jelisaveta Džigurski. (2026). alterecho11/hc_use_estbb: v1.0.0 (v1.0.0). Zenodo. 
+https://doi.org/10.5281/zenodo.19615879
 
 ---
 
