@@ -41,7 +41,7 @@ Optional:
 
 If you use the R code in your research, please cite the manuscript:
 
-Citation: Džigurski J, Möls M, Läll K, Currant H, Eltermaa M, Estonian Biobank Research Team, et al. (2026) Prescribed hormonal contraceptive use trends in the Estonian Biobank: A longitudinal observational study. PLoS Med 23(5): e1005086.
+Džigurski J, Möls M, Läll K, Currant H, Eltermaa M, Estonian Biobank Research Team, et al. (2026) Prescribed hormonal contraceptive use trends in the Estonian Biobank: A longitudinal observational study. PLoS Med 23(5): e1005086.
 DOI: https://doi.org/10.1371/journal.pmed.1005086
 
 If you specifically use or adapt the HC usage period reconstruction 
